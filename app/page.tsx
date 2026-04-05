@@ -22,7 +22,7 @@ export default function Home() {
   ]
 
   const galleryImages = [
-    { src: '/hero.JPG', alt: 'Luxury apartment interior' },
+    { src: '/sit1.JPG', alt: 'Luxury apartment interior' },
     { src: '/sit7.JPG', alt: 'Master bedroom' },
     { src: '/sit2.JPG', alt: 'Living area' },
     { src: '/sit3.JPG', alt: 'Modern bathroom' },
